@@ -1,0 +1,1 @@
+// const value_1:string = 'Hello World';
